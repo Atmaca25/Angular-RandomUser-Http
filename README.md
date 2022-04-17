@@ -26,4 +26,5 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice.
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-<img src="https://github.com/Atmaca25/Angular-RandomUser-Http/blob/main/image.png" width=500 heigth=500 />
+
+<img src="https://github.com/Atmaca25/Angular-RandomUser-Http/blob/main/image.png" width=600 heigth=600 />
